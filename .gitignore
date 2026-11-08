@@ -1,0 +1,5 @@
+out/
+db/
+sources.txt
+target/
+.vscode/
